@@ -1,0 +1,15 @@
+{
+  "name": "ap-marketing-landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page AP Marketing Digital",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p $PORT"
+  },
+  "keywords": ["landing-page", "marketing", "ap-marketing"],
+  "author": "AP Marketing Digital",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
